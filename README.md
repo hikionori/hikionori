@@ -12,8 +12,8 @@ Hello, I am a software engineer and currently live in Ukraine, the city of Odess
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hikionori&theme=dark&hide_border=false)<br/>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hikionori&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hikionori&theme=discord&no-frame=true&no-bg=false&margin-w=4)
+<!-- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=hikionori&theme=discord&no-frame=true&no-bg=false&margin-w=4) -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
