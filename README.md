@@ -13,7 +13,7 @@ let hikionori = SoftwareDeveloper {
     education: "Bachelor of Computer Science",
     university: "Odessa National Technical University",
     degrees: vec![DegreeInProcess::BachelorOfComputerScience, DegreeIn::JuniorSpecialistOfSoftwareDevelopment],
-    languages: vec!["Ukrainian", "Russian", "English"],
+    languages: vec!["Ukrainian", "English"],
     code: vec![Lang::JavaScript, Lang::TypeScript, Lang::Python, Lang::Rust, Lang::Dart],
     technologies: SoftwareDevTech {
         backend: vec![Python::FastAPI, Rust::Rocket, Rust::Actix],
