@@ -22,7 +22,7 @@ let hikionori = SoftwareDeveloper {
     architecture: vec![Arch::Microservices, Arch::Serverless, Arch::CleanArchitecture, Arch::Monolith],
     currentFocus: "Mobile Development",
     fanOf: "Rust",
-    funFact: "I'm a fan of Harry Potter and I'm a Slytherin",
+    funFact: "I'm a fan of Harry Potter and I'm a Ravenclaw",
 }
 ```
 ### 📊 GitHub Stats
