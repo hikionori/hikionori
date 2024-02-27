@@ -1,10 +1,10 @@
-# Hello, I'm Danila Verbinskyi or hikionori 👋
+# Hello, I'm Danila Verbinskiy or hikionori 👋
     
 ## Little bit about me
 
 ```rust
 let hikionori = SoftwareDeveloper {
-    name: "Danila Verbinskyi",
+    name: "Danila Verbinskiy",
     age: 20,
     from: "Ukraine",
     education: "Bachelor of Computer Science",
