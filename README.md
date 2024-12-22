@@ -5,7 +5,7 @@
 ```rust
 let hikionori = SoftwareDeveloper {
     name: "Danila Verbinskiy",
-    age: 20,
+    age: 21,
     from: "Ukraine",
     education: "Bachelor of Computer Science",
     university: "Odessa National Technical University",
