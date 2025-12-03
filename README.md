@@ -25,10 +25,6 @@ let hikionori = SoftwareDeveloper {
     funFact: "I'm a fan of Harry Potter and I'm a Slytherin",
 }
 ```
-### 📊 GitHub Stats
-<img alt="hikionori stats" src="https://github-readme-stats.vercel.app/api?username=hikionori&theme=bear&show_icons=true&hide_border=false&count_private=true" />
-
-<img alt="hikionori top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hikionori&theme=bear&show_icons=true&hide_border=false&layout=compact" />
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
