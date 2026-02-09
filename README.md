@@ -5,11 +5,11 @@
 ```rust
 let hikionori = SoftwareDeveloper {
     name: "Danila Verbinskiy",
-    age: 21,
+    age: 22,
     from: "Ukraine",
     education: "Bachelor of Computer Science",
     university: "Odessa National Technical University",
-    degrees: vec![DegreeInProcess::BachelorOfComputerScience, DegreeIn::JuniorSpecialistOfSoftwareDevelopment],
+    degrees: vec![DegreeIn::BachelorOfComputerScience, DegreeIn::JuniorSpecialistOfSoftwareDevelopment],
     languages: vec!["Ukrainian", "English"],
     code: vec![Lang::JavaScript, Lang::TypeScript, Lang::Python, Lang::Rust, Lang::Dart],
     technologies: SoftwareDevTech {
