@@ -1,24 +1,23 @@
-# Hey, I’m Danila 👋
+# Danila Verbinskiy has entered the chat
 
-**Works on my machine™**  
-I’m the CTO at [Metatable.ai](https://metatable.ai), so the other machines are also my problem.
+**Sorting Hat:** Slytherin.  
+**Rust compiler:** I still need a lifetime annotation.  
+**Me:** This is why the hat gets to go first.
 
-At Metatable, we turn conversations about how a business works into running apps. I write Rust, Flutter, and TypeScript somewhere between “that’s what I meant” and “it’s live.”
+I’m Danila, the hands-on CTO at [Metatable.ai](https://metatable.ai).
+We turn conversations about how a business works into running apps.
 
-## A service with better sleep habits than mine
+I work with Rust, Flutter, and TypeScript. Rust gets the most affectionate
+“oh, come *on*.”
 
-[**nscale**](https://github.com/Metatable-ai/nscale) lets idle Nomad services sleep and wakes them when an HTTP request comes in. I’d like this feature for myself, with a slightly higher threshold.
+## One of my better conversations
 
-<details>
-<summary>Ask the Sorting Hat</summary>
+**HTTP request:** Anybody home?  
+**[nscale](https://github.com/Metatable-ai/nscale):** Give me a second.  
+**Nomad service:** I’m up. What did I miss?
 
-```rust
-let house = House::Slytherin;
-let favorite_language = Language::Rust;
+nscale is a Rust proxy that wakes HashiCorp Nomad services when requests
+arrive and scales them to zero when they’re idle.
 
-// The Hat asked me to pick a house. I added a field.
-```
-
-</details>
-
-[Find me on LinkedIn](https://www.linkedin.com/in/danila-verbinskiy)
+**GitHub status:** Works on my machine™  
+**For conversations that should wake a human:** [LinkedIn](https://www.linkedin.com/in/danila-verbinskiy)
