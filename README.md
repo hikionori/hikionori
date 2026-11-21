@@ -1,30 +1,24 @@
-# Hello, I'm Danila Verbinskiy or hikionori 👋
-    
-## Little bit about me
+# Hey, I’m Danila 👋
+
+**Works on my machine™**  
+I’m the CTO at [Metatable.ai](https://metatable.ai), so the other machines are also my problem.
+
+At Metatable, we turn conversations about how a business works into running apps. I write Rust, Flutter, and TypeScript somewhere between “that’s what I meant” and “it’s live.”
+
+## A service with better sleep habits than mine
+
+[**nscale**](https://github.com/Metatable-ai/nscale) lets idle Nomad services sleep and wakes them when an HTTP request comes in. I’d like this feature for myself, with a slightly higher threshold.
+
+<details>
+<summary>Ask the Sorting Hat</summary>
 
 ```rust
-let hikionori = SoftwareDeveloper {
-    name: "Danila Verbinskiy",
-    age: 22,
-    from: "Ukraine",
-    education: "Bachelor of Computer Science",
-    university: "Odessa National Technical University",
-    degrees: vec![DegreeIn::BachelorOfComputerScience, DegreeIn::JuniorSpecialistOfSoftwareDevelopment],
-    languages: vec!["Ukrainian", "English"],
-    code: vec![Lang::JavaScript, Lang::TypeScript, Lang::Python, Lang::Rust, Lang::Dart],
-    technologies: SoftwareDevTech {
-        backend: vec![Python::FastAPI, Rust::Rocket, Rust::Actix, Rust::Axum],
-        frontend: vec![JavaScript::React, TypeScript::React, Dart::Flutter],
-        mobile: vec![Dart::Flutter, TypeScript::ReactNative],
-        devops: vec![DevOps::Docker, DevOps::Kubernetes],
-        databases: Vec![DB::PostgreSQL, DB::MongoDB, DB::Redis],
-    },
-    architecture: vec![Arch::Microservices, Arch::Serverless, Arch::CleanArchitecture, Arch::Monolith],
-    currentFocus: "AI Enginearing",
-    fanOf: "Rust",
-    funFact: "I'm a fan of Harry Potter and I'm a Slytherin",
-}
+let house = House::Slytherin;
+let favorite_language = Language::Rust;
+
+// The Hat asked me to pick a house. I added a field.
 ```
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+</details>
+
+[Find me on LinkedIn](https://www.linkedin.com/in/danila-verbinskiy)
